@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536147407328",
+    "project_id": "sportline-flutter-applic-197f9",
+    "storage_bucket": "sportline-flutter-applic-197f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536147407328:android:d32ff566072a78ebd1bb85",
+        "android_client_info": {
+          "package_name": "com.example.sportline_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8BYmhpuwg8oQvJLkTvlUaFBQur1KUbF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
